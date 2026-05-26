@@ -9,7 +9,7 @@ An end-to-end machine learning pipeline to predict used car prices with an inter
 | Feature | Detail |
 |---|---|
 | ML Models | Ridge, Random Forest, Gradient Boosting |
-| Best R² Score | ~0.91 |
+| Best R² Score | ~0.98 |
 | Feature Engineering | Car age, power-to-engine ratio, log KM |
 | REST API | Flask endpoints for live predictions |
 | Dashboard | Interactive HTML BI dashboard |
