@@ -1,0 +1,280 @@
+{
+  "total_listings": 7906,
+  "avg_price": 649814,
+  "r2": 0.983,
+  "mae": 67245,
+  "avg_by_fuel": {
+    "CNG": 317904.0,
+    "Diesel": 802450.0,
+    "LPG": 210886.0,
+    "Petrol": 472665.0
+  },
+  "avg_by_transmission": {
+    "Automatic": 1882972.0,
+    "Manual": 462819.0
+  },
+  "avg_by_owner": {
+    "First Owner": 789980.0,
+    "Fourth & Above Owner": 233197.0,
+    "Second Owner": 401203.0,
+    "Test Drive Car": 4403800.0,
+    "Third Owner": 293187.0
+  },
+  "avg_by_year": {
+    "1994": 72000.0,
+    "1995": 55000.0,
+    "1996": 41000.0,
+    "1997": 86111.0,
+    "1998": 57889.0,
+    "1999": 76929.0,
+    "2000": 76461.0,
+    "2001": 46500.0,
+    "2002": 103789.0,
+    "2003": 101573.0,
+    "2004": 109409.0,
+    "2005": 143757.0,
+    "2006": 170462.0,
+    "2007": 179107.0,
+    "2008": 205560.0,
+    "2009": 228809.0,
+    "2010": 274011.0,
+    "2011": 322096.0,
+    "2012": 353143.0,
+    "2013": 460665.0,
+    "2014": 516676.0,
+    "2015": 596770.0,
+    "2016": 700318.0,
+    "2017": 890193.0,
+    "2018": 958184.0,
+    "2019": 1776986.0,
+    "2020": 885270.0
+  },
+  "fuel_counts": {
+    "Diesel": 4299,
+    "Petrol": 3520,
+    "CNG": 52,
+    "LPG": 35
+  },
+  "sample_rows": [
+    {
+      "year": 2014,
+      "km_driven": 145500,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1248.0,
+      "max_power_bhp": 74.0,
+      "seats": 5.0,
+      "selling_price": 450000
+    },
+    {
+      "year": 2014,
+      "km_driven": 120000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1498.0,
+      "max_power_bhp": 103.52,
+      "seats": 5.0,
+      "selling_price": 370000
+    },
+    {
+      "year": 2006,
+      "km_driven": 140000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "Third Owner",
+      "engine_cc": 1497.0,
+      "max_power_bhp": 78.0,
+      "seats": 5.0,
+      "selling_price": 158000
+    },
+    {
+      "year": 2010,
+      "km_driven": 127000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1396.0,
+      "max_power_bhp": 90.0,
+      "seats": 5.0,
+      "selling_price": 225000
+    },
+    {
+      "year": 2007,
+      "km_driven": 120000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1298.0,
+      "max_power_bhp": 88.2,
+      "seats": 5.0,
+      "selling_price": 130000
+    },
+    {
+      "year": 2017,
+      "km_driven": 45000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1197.0,
+      "max_power_bhp": 81.86,
+      "seats": 5.0,
+      "selling_price": 440000
+    },
+    {
+      "year": 2007,
+      "km_driven": 175000,
+      "fuel": "LPG",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1061.0,
+      "max_power_bhp": 57.5,
+      "seats": 5.0,
+      "selling_price": 96000
+    },
+    {
+      "year": 2001,
+      "km_driven": 5000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 796.0,
+      "max_power_bhp": 37.0,
+      "seats": 4.0,
+      "selling_price": 45000
+    },
+    {
+      "year": 2011,
+      "km_driven": 90000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1364.0,
+      "max_power_bhp": 67.1,
+      "seats": 5.0,
+      "selling_price": 350000
+    },
+    {
+      "year": 2013,
+      "km_driven": 169000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1399.0,
+      "max_power_bhp": 68.1,
+      "seats": 5.0,
+      "selling_price": 200000
+    },
+    {
+      "year": 2014,
+      "km_driven": 68000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1461.0,
+      "max_power_bhp": 108.45,
+      "seats": 5.0,
+      "selling_price": 500000
+    },
+    {
+      "year": 2005,
+      "km_driven": 100000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 993.0,
+      "max_power_bhp": 60.0,
+      "seats": 5.0,
+      "selling_price": 92000
+    },
+    {
+      "year": 2009,
+      "km_driven": 140000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1248.0,
+      "max_power_bhp": 73.9,
+      "seats": 5.0,
+      "selling_price": 280000
+    },
+    {
+      "year": 2009,
+      "km_driven": 90000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1061.0,
+      "max_power_bhp": 67.0,
+      "seats": 5.0,
+      "selling_price": 180000
+    },
+    {
+      "year": 2016,
+      "km_driven": 40000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1198.0,
+      "max_power_bhp": 82.0,
+      "seats": 5.0,
+      "selling_price": 400000
+    },
+    {
+      "year": 2016,
+      "km_driven": 70000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1248.0,
+      "max_power_bhp": 88.5,
+      "seats": 7.0,
+      "selling_price": 778000
+    },
+    {
+      "year": 2012,
+      "km_driven": 53000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1396.0,
+      "max_power_bhp": 90.0,
+      "seats": 5.0,
+      "selling_price": 500000
+    },
+    {
+      "year": 2002,
+      "km_driven": 80000,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 796.0,
+      "max_power_bhp": 46.3,
+      "seats": 5.0,
+      "selling_price": 150000
+    },
+    {
+      "year": 2016,
+      "km_driven": 100000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "engine_cc": 1396.0,
+      "max_power_bhp": 88.73,
+      "seats": 5.0,
+      "selling_price": 680000
+    },
+    {
+      "year": 2011,
+      "km_driven": 100000,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "engine_cc": 1461.0,
+      "max_power_bhp": 64.1,
+      "seats": 5.0,
+      "selling_price": 174000
+    }
+  ]
+}
